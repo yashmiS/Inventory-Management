@@ -1,0 +1,21 @@
+.login1 {
+  text-align: center;
+}
+
+.login-background {
+  background-color: #4e85f5;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  background-color: white;
+  width: 500px;
+  height: 500px;
+}
+button {
+  background-color: rgb(94, 94, 170);
+  border-radius: 20px;
+}
